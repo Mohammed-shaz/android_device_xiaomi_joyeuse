@@ -19,7 +19,7 @@ The Redmi Note 9 Pro (codenamed _"joyeuse"_) is a mid-range smartphone from Xiao
 | Rear camera 3           | 5 MP, f/2.4, macro, 1/5", 1.24µm                            |
 | Rear camera 4           | 2 MP, f/2.4, portrait, 1.75µm                               |
 | Front camera            | 16 MP, f/2.48, macro, 1/4", 1.00µm                          |
-
+| NFC                     | Available                                                   |
 
 ## Device picture
 
@@ -32,8 +32,7 @@ The Redmi Note 9 Pro (codenamed _"joyeuse"_) is a mid-range smartphone from Xiao
 | Latest System Security Patch | 2022-04-01 |
 | Latest Vendor Security Patch | 2022-04-01 |
 
-## Notes
-Pick this commit before building: https://github.com/verNANDo57/android_system_sepolicy/commit/2bbd950dae38d758da910ca98899b9cd14715364
+
 
 ## Copyright
 
