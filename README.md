@@ -1,4 +1,5 @@
-# android_device_xiaomi_joyeuse
+The Redmi Note 9 Pro (codenamed _"joyeuse"_) is a mid-range smartphone from Xiaomi announced in May 2020.
+
 ## Device specifications
 
 | Device                  | Redmi Note 9 Pro                                            |
