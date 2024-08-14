@@ -1,0 +1,9 @@
+soong_namespace {
+     imports: [
+        "vendor/nxp/opensource/pn5xx",
+        "vendor/qcom/opensource/commonsys/packages/apps/Bluetooth",
+        "vendor/qcom/opensource/interfaces",
+        "kernel/xiaomi/sm6250",
+        "hardware/xiaomi",
+    ]
+}
